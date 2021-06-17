@@ -76,3 +76,13 @@ header.main {
     padding: 0.5em;
   }
 }
+.notice, #notice {
+  background: rgb(209, 78, 26);
+  border-radius: 0.5em;
+  border: solid 0.177em rgb(97, 41, 4);
+  color: white;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 1em 1.414em;
+  text-align: center;
+  }
