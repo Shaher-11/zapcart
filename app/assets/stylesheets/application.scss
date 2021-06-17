@@ -19,11 +19,11 @@ body {
   padding: 0;
 }
 header.main {
-  text-align: center; // center on mobile
+  text-align: center; // center on mobile  
   @media (min-width: 30em) {
     text-align: left; // left align on desktop
   }
-  background: rgb(206, 114, 77);
+  background-image: linear-gradient(315deg, #b4620a 0%, #5a1703 74%);
   margin: 0;
   h1 {
   display: none;
