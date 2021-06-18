@@ -15,6 +15,6 @@
     skills for communicating, information, and fun.
     </p>},
   image_url: 'dpchat.jpg',
-  price: 20.00)
+  price: 50.00)
   # . . .
 end 
