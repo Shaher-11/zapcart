@@ -6,8 +6,7 @@ class SupportRequestMailer < ApplicationMailer
   #   en.support_request_mailer.respond.subject
   #
   def respond
-    @greeting = "Hi"
-
-    mail to: "to@example.org"
+    @support_request = support_request
+    mail to: @support_request.email, subject: "Re: #{@support_request.subject}"
   end
 end
