@@ -2,20 +2,19 @@
 
 # Zapcart
 
-> Gradar is an application built to help people find all the information they need on any github user,
-> By simply entering the username the app will retrieve the useful data from github api and display it in a nicely organized way.
-
+> Zapcart is a shopping cart built entirely with ruby on rails and some react js on the front end, the app basically allows sellers to pots their products and users will buy the products and choose the payment method
 
 ![screenshot](./app.png)
 
 
 ## Built With
 
-- HTML
+- Ruby On Rails
 - JavaScript
-- Bootstrap
-- Github API
-- Netlify
+- React
+- html 
+- css
+- Tailwind
 - Lots of love :heart:
 
 
