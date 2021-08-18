@@ -2,7 +2,7 @@
 
 # Zapcart
 
-> Zapcart is a shopping cart built entirely with ruby on rails and some react js on the front end, the app basically allows sellers to pots their products and users will buy the products and choose the payment method
+> Zapcart is a shopping cart built from scratch with ruby on rails and some react js on the front end, the app basically allows sellers to post their products and users will buy the products and choose the payment method
 
 ![screenshot](./app.png)
 
