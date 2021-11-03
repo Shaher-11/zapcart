@@ -10,6 +10,7 @@
 ## Built With
 
 - Ruby On Rails
+- PostgeSQL
 - JavaScript
 - React
 - html 
